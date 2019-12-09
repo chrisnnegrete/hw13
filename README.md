@@ -28,6 +28,9 @@ A lot of the challenges came with writing the code. Since this was a simple cand
 
 ## Completed Work
 ![hero](https://github.com/chrisnnegrete/hw13/blob/master/Hero_Shot.jpg)
-![Candy.Dispensed](https://github.com/chrisnnegrete/hw13/blob/master/Candy_Dispensed.jpg0
-![Magazine](https://github.com/chrisnnegrete/hw13/blob/master/Magazine.jpg0
-![Mechanism](https://github.com/chrisnnegrete/hw13/blob/master/Mechanism.jpg0
+
+![Candy.Dispensed](https://github.com/chrisnnegrete/hw13/blob/master/Candy_Dispensed.jpg0)
+
+![Magazine](https://github.com/chrisnnegrete/hw13/blob/master/Magazine.jpg0)
+
+![Mechanism](https://github.com/chrisnnegrete/hw13/blob/master/Mechanism.jpg0)
