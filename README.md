@@ -1,5 +1,5 @@
 # hw13
-//LEGO CANDY MACHINE
+## LEGO CANDY MACHINE
 
 This project is a hardware-based Arduino electronics assignment that incorporates LEGO and electronics to make a simple candy dispenser.
 
